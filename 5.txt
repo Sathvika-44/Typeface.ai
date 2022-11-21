@@ -1,0 +1,15 @@
+To Crawl a website we should first do the following things:
+1.Understand the domain and structure of the webite.
+2.We need to be familar with the website that we wnat to crawl. 
+3.We need to configure the URL Sources and we should have knowledge about the URL's.
+4.Adding some restrictions to the crawl website.
+5.Test the changes in the website.
+6.Finally, run the crawl .
+
+To Save the images and text from the website:
+1.We can download the profile images from one of the secured site Instagram by copying the profileURL and search in the google Similarly there can be some chances like these.
+Also,we can take a screenshot and save the images using mobile phones(Screenshots), laptops(Snipping tools) and desktop(Snipping tools).
+And we can the copy or save the image URL by right clicking on the image.
+After downloading,taking the screenshot or saving the imageURL  we can maintain a records or database.
+
+2.Similar to saving the image we can copy the text from the website and maintain records.
